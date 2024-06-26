@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from Render! my custom text :)
     </section>
   </body>
 </html>
